@@ -1,0 +1,7 @@
+C:\Users\Wick\Documents\Projects\SamuraiAttack\SamuraiAttack\bin\Debug\SamuraiAttack.exe
+C:\Users\Wick\Documents\Projects\SamuraiAttack\SamuraiAttack\bin\Debug\SamuraiAttack.pdb
+C:\Users\Wick\Documents\Projects\SamuraiAttack\SamuraiAttack\obj\x86\Debug\SamuraiAttack.csprojResolveAssemblyReference.cache
+C:\Users\Wick\Documents\Projects\SamuraiAttack\SamuraiAttack\obj\x86\Debug\SamuraiAttack.exe
+C:\Users\Wick\Documents\Projects\SamuraiAttack\SamuraiAttack\obj\x86\Debug\SamuraiAttack.pdb
+C:\Users\Wick\Documents\Projects\SamuraiAttack\SamuraiAttack\bin\Debug\Ninject.dll
+C:\Users\Wick\Documents\Projects\SamuraiAttack\SamuraiAttack\bin\Debug\Ninject.xml
