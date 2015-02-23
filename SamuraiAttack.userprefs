@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="SamuraiAttack\SamuraiAttack.csproj" />
+﻿<Properties StartupItem="SamuraiAttack\SamuraiAttack.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SamuraiAttack\Program.cs">
+    <Files>
+      <File FileName="SamuraiAttack\Program.cs" Line="2" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
